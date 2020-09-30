@@ -1,4 +1,5 @@
 // function getUserRole(name, role){
+var name= 'fdfdd';
 //     switch (role) {
 //         case "admin":
 //             return `${name} is admin with all the access`;
