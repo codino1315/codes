@@ -1,5 +1,6 @@
 const uid = "abc123"; // cant be changed afterwards because of the const keyword
 // uid = "xyz"; //not possible 
+var v1 = "Prahlad";
 
 var fullName = "Prahlad Nayak";
 var email = "prahlad.is18@gmail.com";
